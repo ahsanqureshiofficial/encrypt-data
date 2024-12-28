@@ -16,9 +16,14 @@ A lightweight, browser-based file encryption tool using AES-256-GCM for secure f
 - ⚡ Fast processing with optimized code
 - 🛡️ Secure salt and IV handling
 
-**🚀 How It Works**
 
-1. - **Encryption Process:**
+
+###  **🚀 How It Works**
+
+------------
+
+
+1. **Encryption Process:**
 
 - Generates cryptographically secure random salt and IV
 - Derives encryption key using PBKDF2
@@ -33,6 +38,9 @@ A lightweight, browser-based file encryption tool using AES-256-GCM for secure f
 - Reconstructs encryption key using provided password
 - Decrypts data using AES-256-GCM
 - Auto-downloads the original file
+
+------------
+
 
 
 **💻 Usage**
